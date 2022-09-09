@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DdBFHVCgYmUR6q9feB8ATdUTYxYw5P5QtwkQbD9ykJg=",
+  "Source": "ResponseHeaders",
+  "BasePath": "_content/ResponseHeaders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
